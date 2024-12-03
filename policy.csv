@@ -1,0 +1,3 @@
+p, alice, /news, GET
+p, bob, /news, GET
+p, bob, /news, POST
